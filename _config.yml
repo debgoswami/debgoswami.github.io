@@ -12,7 +12,7 @@ git: "https://github.com/debgoswami"  #your github url here.
 
 #disqus comment
 disqus:
-    shortname: "debgoswami" #your disqus comment short name
+    shortname: "" #your disqus comment short name
 
 #google analytics
 google:
