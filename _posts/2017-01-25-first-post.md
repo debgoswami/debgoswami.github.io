@@ -7,6 +7,5 @@ date: 2017-01-25 16:25:00
 
 This post is a quick test of using [Jekyll](http://jekyllrb.com/) in combination with [Github](http://github.io) to set up a Blogging framework.
 
-Hopefully I'll be able to post updates from my adventures in AI, focussing on Natural Language Processing.
-
+Works.
 
