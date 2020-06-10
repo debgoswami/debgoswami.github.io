@@ -1,0 +1,18 @@
+baseURL = "http://demystify.ai"
+languageCode = "en-us"
+title = "demystify.ai"
+theme = "ananke"
+author = "Deb Goswami"
+description = "Data Scientist"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Demystify.ai"
+    description = "Thoughts, stories and ideas spanning a career in enabling AI and Machine Learning for enterprise"
+    github = "https://github.com/debgoswami"
+    twitter = "https://twitter.com/drehsil"
+    email = "deb.goswami@outlook.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"

@@ -1,0 +1,56 @@
+#+TITLE: Orchestrating A Successful Enterprise AI Transformation
+#+date: 2020-06-09
+#+author: Dr. Deb Goswami
+#+tags[]: AI, Machine-Learning, Enterprise Transformation
+#+feature_image: /img/main/Chess.jpg
+
+#+BEGIN_QUOTE
+I originally wrote this article for the APAC CIO Outlook magazine -> link [[https://cloud.apacciooutlook.com/cxoinsights/orchestrating-a-successful-enterprise-ai-transformation-nwid-6399.html][here]].
+#+END_QUOTE
+
+#{{< figure src="/img/main/Chess.jpg" caption="Photo by Charlie Solorzano on Unsplash" >}}
+
+The AI revolution is well and truly underway.
+
+An article by the Financial Times reveals that the number of AI-related patent applications globally increased from 18,995 in 2013 to 55,660 in 2017 (as per analysis by Geneva-based Wipo). This means that over 50% of the entirety of AI patents have been generated in the last 5 years!
+
+Fuelled by an increasingly global digital economy, massive data and a proliferation of consumer compute (mobile), this surge in AI has led to a significant shift in how organisations are approaching innovation enablement. Personalisation, chatbots, recommendation engines and augmented human-computer interfaces are just some of the ways in which the world has changed around us.
+
+Surveys conducted by Deloitte indicate that up to 37% of C-executives for large firms polled are considering or have already set up a Centre of Excellence (CoE)/Innovation Hub to enable AI transformation within their organisations. 88% of those polled are considering increasing their funding efforts in the coming year, with 82% of the respondents already claiming a positive financial return on the AI investment
+
+** So you want to AI, but how?
+With all the hype around AI, it is only natural for the surge in enterprise AI transformation. However, I have seen numerous examples of initiatives to set up Innovation Hubs or CoE’s for AI with a lot of fanfare that fizzle out with little to no measurable impact. Such outcomes have the added cost of setting back AI engagement by years, which can significantly hinder the competitive edge in an innovation-centric landscape. In fact, the above Deloitte Survey indicates that the greatest challenges faced by early adopters of AI are implementation, integration, cost and effectively measuring/proving value. A canny reader will note that this boils down to…well pretty much everything that matters!
+
+So, it is apparent that there is an issue where organisations are struggling to find a right implementation pathway for their AI transformations. The solution to this, in my humble opinion, is not to chase the answers but ask the right questions (as almost all such responses will likely be prefaced by the phrase “It depends”). Focussing on a process and asking the right questions while embarking on the transformation will be a more fruitful exercise.
+
+** Disambiguating the value proposition
+It is essential for any organization looking to enable this AI transformation to ascertain exactly how committed they are to this process, and what they are willing to spend to get there. The most critical step when attempting this task is to identify what success looks like for your organization. I propose 3 key areas to drive this assessment – Impact, Time and Complexity.
+
+Many such initiatives fall prey to the trap of doing AI for AI’s sake. This certainly backfires in the long term, by misdirecting the initial enthusiasm and engagement. In the absence of a clear strategy to ascertain impact, there will always be the temptation to fall back to the narrative - we are simply not ready as an organisation to do AI.
+
+**** impact
+
+One of the key reasons that AI transformations fail to take off is due to an inability to concretely demonstrate value-add or ROI. Reasons for this vary - but most common among these is a failure to tackle business critical problems, which are often the most valuable to solve. It is important to note that criticality is not always a direct correlation with the absolute dollar value. An intial AI enablement approach should always aim to tackle problems that the business agrees are critical.
+At the same time, not all organisations are looking to frontline their AI teams on business critical problems. Instead their core focus may be geared at branding or Proof of Concepts (PoC’s) to drive greater AI awareness within the company. One could argue that there is nothing wrong with that. Regardless of priorities, it is important to honestly acknowledge them and set up the teams accordingly.
+
+The few truly successful AI transformations I have seen have been a result of close collaboration between the business units and the AI teams to identify and solve critical pain points. This can often be a difficult transition to navigate, as individuals within the business may feel like they’re ceding control to a technology or process that they do not fully understand. This is why I recommend a virtual embedding of data scientists within the business, so that the process of building the AI solution is as transparent and democratised as possible.
+
+**** time
+In addition to solving the right problems, it is important to commit to a time-frame in which results are expected. Crucially, ensure clarity on what is the time-frame within which the above impact needs to be delivered? In order to ensure that these timelines are tethered to reality - who with real-world experience in implementing AI for a related domain has vetted this timeline?
+
+**** complexity
+Finally it is also important to ascertain the technical feasibility and complexity required to build out for. This is often a good point to start hiring the first (senior) data scientists, who may be able to formulate an accurate estimate for this by taking into account systemic constraints within the organization.
+The ingredients that go into making a successful product or insight or cultural change
+
+** Caravans vs Armadas
+At this point, you should have a pretty good idea of what your CoE or Innovation Hub is expected to deliver and by when. The next steps are to make sure that a mechanism to evaluate effort exists, and that the right leadership structure to enable this is present.
+Have you isolated metrics that reflect a successful implementation of outputs from this lab? Understand impact vs reliability. Is a model that is 90% accurate, but only works on 70% of your customers good enough? Get clarity on what the ingredients are, and whether you have the appetite to leverage this
+
+** Culture
+One of my favourite quotes on this topic of enterprise AI transformation is by Andrew Ng
+#+BEGIN_QUOTE:
+“A shopping mall with a website isn’t an e-commerce company” - Andrew Ng
+#+END_QUOTE
+
+He goes on to argue that in a similar vein, a company that has an AI team isn’t really an AI-driven company.
+Educate your stakeholders. Know how to measure, scope and execute these projects. Get the right people doing the right things

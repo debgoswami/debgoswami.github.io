@@ -1,0 +1,43 @@
+#+TITLE: Hosting your Blog using Hugo, Emacs and AWS
+#+SUBTITLE: And a bit of git too!
+#+DATE: 2020-06-08
+#+tags[]: howto, emacs, hugo, aws
+#+Hugo_base_dir: /Users/debgo/workspace/demystify.ai.hugo/
+#+feature_image: /img/post/blogpen.jpg
+#+OPTIONS: toc:true
+
+
+* Why blog at all?
+
+
+** Choosing my tools
+*** Dynamic vs Static Blog
+The first choice was whether I wanted to go down the route of a dynamic or static blogging framework.
+
+Static sites follow a very simple model. There's a bunch of html files and a server that displays them. That's it. You change the html files (or add more), point the server to these changes and they're live. It's an easy model, and something that's perfect for a blog.
+
+Dynamic sites are a bit more complex. If you've ever come across a wordpress or ghost website - these are dynamic. There's usually a more granular configuration mechanism, and correspondingly need more resources to host/serve.
+
+I tried both, and have chosen the static flow in the end.
+*** Buying a Domain
+I chose [[www.godaddy.com][GoDaddy]] as my domain provider. It's quite a simple process
+*** Setting up AWS
+**** Accounts, Billing, Access
+**** Security
+*** Setting up Emacs
+
+*** Useful Guides
+**** Ghost
+Some useful resources on using Ghost (which I tried and decided not to proceed for portability)
+- [[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html][Amazon Official WordPress Setup]]
+- [[https://blog.nestorlee.com/2020/04/23/amazon-lightsail-for-blogs/][Nestor Lee Amazon Lightsail for Blogs]]
+- [[http://blairreeves.me/2019/11/12/how-to-set-up-your-blog-on-aws/][Blair Reeves AWS Blog Setup]]
+- [[https://hackernoon.com/practical-aws-hosting-a-personal-blog-the-hard-way-then-the-easy-way-71325f36174a][Hackernoon - Hosting a Personal blog]]
+- [[https://medium.com/@robmadd3n/create-a-professional-blog-with-aws-and-ghost-56fb357f643][Ghost on AWS]]
+- [[https://aws.amazon.com/blogs/compute/building-a-photo-diary-ghost-on-amazon-lightsail/][Amazon Lightsail + Ghost]]
+- [[https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/][Remove Bitnami manage banner]]
+**** Hugo
+- [[https://dev.to/tom_geraghty/using-hugo-and-aws-to-build-a-fast-static-easily-managed-and-deployed-website-2fme][Hugo + AWS]]
+- [[https://gohugo.io/hosting-and-deployment/hugo-deploy/][Hugo Official Deploy S3]]
+- [[https://fumbling.it/posts/how-i-blog/][Hugo Bloggin with Emacs]]
+- [[https://niklasfasching.github.io/go-org/][Org to Hugo Examples]]

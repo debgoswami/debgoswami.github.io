@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demystify.ai</title>
+    <link>http://www.demystify.ai/</link>
+    <description>Recent content on demystify.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.demystify.ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.demystify.ai/about/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/about/</guid>
+      <description> {{ &amp;lt; figure src=&amp;#34;img/about/resume.pdf&amp;#34; &amp;gt; }} </description>
+    </item>
+    
+    <item>
+      <title>Orchestrating A Successful Enterprise AI Transformation</title>
+      <link>http://www.demystify.ai/post/orchestrating-a-successful-ai-tranformation/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/post/orchestrating-a-successful-ai-tranformation/</guid>
+      <description>I originally wrote this article for the APAC CIO Outlook magazine -&amp;gt; link here.     Photo by Charlie Solorzano on Unsplash
+   The AI revolution is well and truly underway. An article by the Financial Times reveals that the number of AI-related patent applications globally increased from 18,995 in 2013 to 55,660 in 2017 (as per analysis by Geneva-based Wipo). This means that over 50% of the entirety of AI patents have been generated in the last 5 years!</description>
+    </item>
+    
+    <item>
+      <title>Hosting your Blog using Hugo, Emacs and AWS</title>
+      <link>http://www.demystify.ai/post/blogsetup/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/post/blogsetup/</guid>
+      <description>Why blog at all?  Choosing my tools  Dynamic vs Static Blog   The first choice was whether I wanted to go down the route of a dynamic or static blogging framework.  Static sites follow a very simple model. There&amp;#39;s a bunch of html files and a server that displays them. That&amp;#39;s it. You change the html files (or add more), point the server to these changes and they&amp;#39;re live.</description>
+    </item>
+    
+    <item>
+      <title>Coming soon...</title>
+      <link>http://www.demystify.ai/post/comingsoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/post/comingsoon/</guid>
+      <description> Watch this space….    Coming soon!   </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.demystify.ai/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

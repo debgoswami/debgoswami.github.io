@@ -1,0 +1,47 @@
+#+TITLE: Why I bought a Macbook Pro
+#+AUTHOR: Deb Goswami
+#+TAGS[]: apple, mac-os, developer, macbook pro
+#+FEATURE_IMAGE: /img/post/macbookpro-header.jpg
+#+Date: 2020-06-10
+#+Summary: Why you should buy the base 13" Macbook Pro as a portable, development machine
+#+DESCRIPTION: A quick post on how I go about choosing a mobile development machine
+
+** Why I needed a new laptop
+As you may be aware, COVID happened in 2020. Suddenly both my wife and I were working from home. And our 2 year old toddler's school had just switched to home-based learning for the foreseeable future. We had overlapping meeting schedules and an incredibly creative childling who was completely agnostic to these trivialities. Needless to say - compromises were made.
+
+Thus, I let go of my much beloved man-cave (it has a nicer [[https://secretlab.sg/collections/omega-series][Secretlab Omega]] chair, that my pregnant wife loves) and with it - my daily driver. A dual-boot Win10/Kubuntu desktop that I'd painstakingly set up just so.
+
+We had a surface go we used for a quick remote login here and there - but I'll be honest, it's not nearly good enough for anything more than a tab here and there. Trust me I've tried (WSL on Surface Go IS possible - but highly inadvisable). Champion that my wife is - she really did try to use this. Her company has a proprietary JWS app that enabled remote login that we got going. It works - but spending more than a few minutes here and there is incredibly uncomfortable. I also suspect a bit of - /"No, you're not going to use this as excuse to buy yet another gadget"/ played a part in her thinking. Funnily enough, the MS whiteboard app and surface pencil have been great companions for our toddler's budding art skills.
+
+So we agreed that she'd move to using the desktop full time and I'd get a laptop. After quite a bit of deliberation, I ended up buying the base 13" Macbook Pro (8th-gen i5) with a 16GB RAM upgrade.
+
+TLDR: Covid + Work from Home = Lost Desktop to wife. Bought Macbok Pro
+
+*** Big Fight: MacBook Pro vs MacBook Air
+My choice to go with the Apple hardware came down to 3 main factors
+**** Durability
+  I've had Apple devices (iPhones, iPads and work Macbooks) for a few years now. They just /last/ longer. And with the exit of the much maligned butterfly keyboards in the 2020 models - joy all around!
+**** Design + Polish
+  As I mentioned, I've worked with all 3 major OS's on a regular basis. Hands down, the MacOS ecosystem is the easiest to fall (and stay) in love with. I say this as someone who *hates* having to switch around with differing ~Meta~ keys. Also, linux for all that I love it as an OS - I just can't seem to find a trouble free WDM (though KDE is awesome) that I won't spend forever tinkering with for an amateurish (mine) UX.
+
+
+**** Performance
+
+The compromise I made was on paper performance specs. The base 13" MacBook Pro model I went for has an 8th Gen i5.
+
+*** Buy this if...
+
+#+BEGIN_CAPTION:
+Workflow wise, I'll usually have a web browser, emacs and terminal on a single screen. Everything else I usually split into another workspace (this is possible in all OS's I use)
+#+END_CAPTION:
+[[/img/post/normal-workflow.png]]
+
+
+
+*** Don't Buy this if...
+- It needed to be light. I'll be moving between sofas, balcony and once the world opens up - meeting rooms/venues
+- Fanless. I've had multiple windows laptops before and invariably within a few years the fans stop working (or spinning endlessly)
+- Longevity. Build quality is a huge plus. Although not budget constrained (within reason) - for environmental reasons, I'd prefer not to have to upgrade this within the next 3 years
+- Performance-wise -> I generally don't do heavy code-compiles or ML training on my device. I do have a cloud account and my desktop for that sort of work. Neither do I need any video-editing or image-editing on this.
+
+** 1 Month Review

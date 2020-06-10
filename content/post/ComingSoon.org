@@ -1,0 +1,10 @@
+#+HUGO_BASE_DIR: /Users/debgo/workspace/demystify.ai.hugo/
+#+TITLE: Coming soon...
+#+SUBTITLE: Watch this space...
+#+DATE: 2020-06-08
+#+tags[]: blog, getting-started
+#+feature_image: https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+
+#+BEGIN_CENTER:
+Coming Soon!
+#+END_CENTER

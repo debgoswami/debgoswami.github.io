@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on demystify.ai</title>
+    <link>http://www.demystify.ai/tags/aws/</link>
+    <description>Recent content in aws on demystify.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.demystify.ai/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hosting your Blog using Hugo, Emacs and AWS</title>
+      <link>http://www.demystify.ai/post/blogsetup/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.demystify.ai/post/blogsetup/</guid>
+      <description>Why blog at all?  Choosing my tools  Dynamic vs Static Blog   The first choice was whether I wanted to go down the route of a dynamic or static blogging framework.  Static sites follow a very simple model. There&amp;#39;s a bunch of html files and a server that displays them. That&amp;#39;s it. You change the html files (or add more), point the server to these changes and they&amp;#39;re live.</description>
+    </item>
+    
+  </channel>
+</rss>
